@@ -10,4 +10,13 @@ We welcome the contribution of community to build on the keywords and test analy
 Also we will contribute to npm ocr and npm video indexer.
 
 
+Team:
+
+
+Harsh Bajaj
+Tanveer Shaikh
+
+More Details: https://devpost.com/software/azurevideosearch-jigo4t
+
+
 
