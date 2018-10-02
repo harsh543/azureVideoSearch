@@ -1,4 +1,7 @@
 # azureVideoSearch
+
+## Was Implemented at HackIllinois 2018
+
 This hack indexes video transcripts and extracts keywords which makes search better
 
 
